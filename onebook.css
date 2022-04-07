@@ -8,6 +8,7 @@ body {
     margin: 0 auto;
     width:80%;
     padding: 20px 20px 20px 20px;  
+    border-radius:5px;
 }
 header{
     margin: 0 auto;
@@ -15,10 +16,12 @@ header{
 }
 #logo {
     background-color:#c4dc9c;
+    border-radius:5px;
 }
 nav{
     padding: 10px 10px;
     background-color:#45884b;
+    border-radius:5px;
 }
 nav ul {
     list-style-type: none;
@@ -31,12 +34,15 @@ nav li {
 }
 nav a {
     text-decoration:none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:90%;
     background-color:#c4dc9c;
     border:inset 1px;
     color:#000;
     padding: 5px 5px;
     margin: 8px 8px;
     width:80%;
+    border-radius:5px;
 }
 nav a:hover {background-color:#faf7f5; padding: 10px 10px;
 }
