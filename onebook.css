@@ -16,3 +16,24 @@ header{
 #logo {
     background-color:#c4dc9c;
 }
+nav{
+    padding: 10px 10px;
+    background-color:#45884b;
+}
+nav ul {
+    list-style-type: none;
+    margin:0 auto;
+    width:80%;
+    font-size:200%;
+}
+nav li {
+    display:inline;
+}
+nav a {
+    text-decoration:none;
+    color:#000;
+    margin: 8px 8px;
+    width:80%;
+}
+nav a:hover {background-color:#faf7f5; padding: 10px 10px;
+}
