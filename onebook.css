@@ -40,3 +40,17 @@ nav a {
 }
 nav a:hover {background-color:#faf7f5; padding: 10px 10px;
 }
+
+main{
+    font-family:Helvetica, sans-serif;
+    padding: 10px 10px;
+    font-size:120%;
+}
+
+main h1{
+    text-align:center;
+}
+#wrapper img {
+    margin:auto;
+    display:block;
+}
