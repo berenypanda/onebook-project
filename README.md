@@ -1,2 +1,2 @@
 # onebook-project
-For CTEC2350 
+An e-pamphlet explaining an assigned novel to college students.
